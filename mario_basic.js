@@ -20,9 +20,9 @@ console.log (`May age is ${age} or ${age2}`);
 
 //Basic Exercise 3
 
-// const recentYear = new getFullYear();
+const recentYear = new getFullYear();
 
-// console.log(recentYear.getFullYear);
+console.log(recentYear.getFullYear);
 
 
 //Basic Exercise 4
